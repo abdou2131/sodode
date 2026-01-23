@@ -1,3 +1,4 @@
+# # Exercice :01
 # name = "mayar"
 # age = 10
 # if (age < 18) :
@@ -6,6 +7,8 @@
 
 # else :
 #     print (adulte)
+
+# Exercice :02
 
 username_pred = "abdou2131"
 passward_pred = "123A2131a" 
