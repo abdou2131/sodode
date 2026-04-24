@@ -108,6 +108,14 @@
 
 # Exercice : 07
 
+count = 0
+file = open("numbers.txt", "r")
+for line in file:
+        count +=1
+print(count)
+
+
+
 
 
 
@@ -128,10 +136,4 @@
 # lignes = [ligne.strip() for ligne in lignes]
 
 # print(lignes)
-
-count = 0
-file = open("numbers.txt", "r")
-for line in file:
-        count +=1
-print(count)
 
